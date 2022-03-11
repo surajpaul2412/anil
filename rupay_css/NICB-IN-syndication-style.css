@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'Barlow-Regular';
+    src: url('../fonts/Barlow-Regular.eot');
+    src: url('../fonts/Barlow-Regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Barlow-Regular.woff2') format('woff2'),
+        url('../fonts/Barlow-Regular.woff') format('woff'),
+		url('../fonts/Barlow-Regular.ttf') format('truetype'),
+        url('../fonts/Barlow-Regular.svg#Barlow-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+#visaoffers #visa-widget-header {color:#f46600}
+
+#visaoffers #visa-widget-header {font-size: 40px}
+#visaoffers #visa-widget-header {font-family: 'Barlow-Regular', Arial, sans-serif;}
+#visaoffers #visa-widget-header {font-style: Regular}
+
+#visaoffers .header-text h3 {font-size: 26px;color:#f46600;}
+#visaoffers .header-text h3 {font-family: 'Barlow-Regular', Arial, sans-serif;}
+
+#visaoffers .dropdown {
+ min-width: 225px;  
+  max-width: 220px;
+}
+
+#visaoffers .dropdown .selected {
+  width:220px;
+}
+
+#visaoffers input.search-inpt {
+    width: 199px !important;
+	font-size: 15px;
+}
+
+#visaoffers img.searchicon {
+    left: 8px;
+}
+#visaoffers .search-holder {
+    border: 1px solid #ccc;
+}
+
+#visaoffers .search-holder input.search-inpt {
+    border: 0px;
+}
+
+#visaoffers, #visaoffers .main-content p, #visaoffers p {font-size: 18px;}
+#visaoffers, #visaoffers .main-content p, #visaoffers p {font-family: 'Barlow-Regular', Arial, sans-serif;}
+
+#visaoffers, #visaoffers .main-content p, #visaoffers p {color: #777777;}
+
+#visaoffers .dropdown {
+  background: #f46600;
+  color: #ffffff;
+}
+#visaoffers .dropdown .selected {
+  color: #ffffff;
+}
+#visaoffers .dropdown.focus,
+#visaoffers .dropdown:hover {
+  background: #f46600 !important;
+}
+#visaoffers .dropdown li.focus {
+  background: #f46600 !important;
+}
+#visaoffers .dropdown li.active {
+  background: #f46600 !important;
+  color: #ffffff;
+}
+#visaoffers .dropdown div {
+  color: #ffffff;
+  border-top: 1px solid #f46600;
+  background: #f46600 !important;
+}
+#visaoffers .dropdown li {
+  border-bottom: 1px solid #f46600;
+}
+#visaoffers .dropdown li.active {
+  background: #f46600;
+  color: #ffffff;
+}
+#visaoffers .dropdown {font-family: 'Barlow-Regular', Arial, sans-serif; font-size:15px;}
+#visaoffers .dropdown.open ul{overflow-y:auto;min-height:142px};
+
+#visaoffers #promo-wrapper .promo-item h3 a span  {color:#777777;}
+#visaoffers #promo-wrapper .promo-item h3 a,#visaoffers #promo-wrapper .promo-item h3 a:hover  {font-family: 'Barlow-Regular', Arial, sans-serif;}
+
+#visaoffers #promo-wrapper .promo-item h3 a,#visaoffers #promo-wrapper .promo-item h3 a:hover  {font-size:15px;}
+#visaoffers #promo-wrapper .promo-item h3 a:hover  {color:#a10404;}
+#visaoffers #promo-wrapper .promo-detail p a{color:#a10404;}
+#visaoffers #promo-wrapper .promo-detail p a,#visaoffers #promo-wrapper .promo-detail p a:hover {font-family: 'Barlow-Regular', Arial, sans-serif;}
+
+#visaoffers #promo-wrapper .promo-detail p a,#visaoffers #promo-wrapper .promo-detail p a:hover {font-size:15px;}
+#visaoffers #promo-wrapper .promo-detail p a:hover {color:#777777;}
+#visaoffers .btn-primary {background-color:#f46600;}
+#visaoffers .btn-primary:hover {background-color:#a10404;}
+
+#visaoffers .pagination > li > a,
+#visaoffers .pagination > li > span {
+  background-color: #ffffff;
+  color: #777777;
+  border: 1px solid #777777;
+}
+#visaoffers .pagination > li > a:focus,
+#visaoffers .pagination > li > a:hover,
+#visaoffers .pagination > li > span:focus,
+#visaoffers .pagination > li > span:hover {
+  background-color: #dddddd;
+  border-color: #777777;
+}
+#visaoffers .pagination > li > a:hover,
+#visaoffers .pagination > li > span:hover {
+  color: #777777;
+}
+#visaoffers .pagination a.current {
+  background: #dddddd;
+}
+
+#visaoffers.medium #promo-wrapper .row .col-md-4:nth-child(3n) {border-right: 2px solid #777777;}
+#visaoffers.medium #promo-wrapper .row .last3 {border-bottom: 2px solid #777777;}
+#visaoffers .filter-holder {border-bottom: 2px solid #777777;}
+#visaoffers #promo-wrapper .row {border-top: 2px solid #777777;}
+#visaoffers #promo-wrapper .row .col-md-4 {border-right: 2px solid #777777;border-bottom: 2px solid #777777;}
+#visaoffers.small #promo-wrapper .row .col-md-4 {border-bottom: 2px solid #777777;}
+#visaoffers #offers-load-more {  color: #a10404;}
+
+#visaoffers .btn-primary.back-button {background-color: #f46600;}
+#visaoffers .btn-primary.back-button:hover {background-color: #a10404;}
+#visaoffers #visaOfferMerchantName{font-size:18px;font-family: 'Barlow-Regular', Arial, sans-serif;color:#777777;}
+
+#visaoffers #visaOfferTitleName{font-size:26px;font-family: 'Barlow-Regular', Arial, sans-serif;color:#a10404;}
+
+#visaoffers .main-content h1, #visaoffers h2, #visaoffers h3, #visaoffers h4, #visaoffers h5, #visaoffers h6 {font-size:18px;font-family: 'Barlow-Regular', Arial, sans-serif;color:#000000;}
+
+#visaoffers, #visaoffers .main-content p, #visaoffers p {font-size:18px;font-family: 'Barlow-Regular', Arial, sans-serif;color:#777777;}
+
+
+/* CSS Document */
+
